@@ -15,6 +15,10 @@ import jcifs.smb.NtlmPasswordAuthentication;
 import jcifs.smb.SmbException;
 import jcifs.smb.SmbFile;
 
+/**
+ *
+ * @author GustavoG
+ */
 public class ObjectFile {
 
     private String name;
